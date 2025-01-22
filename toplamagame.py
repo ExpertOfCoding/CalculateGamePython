@@ -1,7 +1,7 @@
 import tkinter 
 import random
 window = tkinter.Tk()
-window.title("My First GUI")
+window.title("Hello Little Toddler")
 number = 10
 equation = 20
 score = 0
